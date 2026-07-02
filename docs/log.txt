@@ -1,0 +1,1 @@
+Auto-update failed · Try /doctor or npm i -g @anthropic-ai/claude-code
