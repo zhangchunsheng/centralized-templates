@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 项目概述
 
-使用 Vue 3 + Vite 3 构建的烙馍智擎模板市场。数据来源于上游 [DataEase 模板市场](https://templates.dataease.cn/) 的 Halo 应用商店 API，抓取全部免费模板（元数据、截图、模板文件）后构建一个可搜索、可筛选、支持本地下载的静态站点。
+使用 Vue 3 + Vite 3 构建的烙馍智擎模板市场。数据来源于上游 [DataEase 模板市场](https://templates.luomor.com/) 的 Halo 应用商店 API，抓取全部免费模板（元数据、截图、模板文件）后构建一个可搜索、可筛选、支持本地下载的静态站点。
 
 ## 常用命令
 
@@ -31,7 +31,7 @@ npm run preview
 
 ### 数据流
 
-1. `scripts/fetch-templates.mjs` 调用 `https://templates.dataease.cn/apis/api.store.halo.run/v1alpha1/applications?page=0&size=500`。
+1. `scripts/fetch-templates.mjs` 调用 `https://templates.luomor.com/apis/api.store.halo.run/v1alpha1/applications?page=0&size=500`。上游实际数据源仍为 `templates.dataease.cn`，如需切换请在脚本内修改 `UPSTREAM_API_URL`。
 2. 下载每个模板的截图和模板文件，对文件名做清洗和去重。
 3. 写入 `src/data/templates.json`，其中模板索引使用本地路径，如 `/uploads/...` 和 `/templates/...`。
 4. Vue 应用通过 Pinia store（`src/stores/templates.js`）直接导入该 JSON 进行渲染，运行时不依赖上游 API。

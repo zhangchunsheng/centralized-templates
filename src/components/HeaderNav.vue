@@ -28,7 +28,7 @@ defineExpose({ focusSearch })
       <div class="flex items-center gap-4">
         <div class="hidden items-center gap-4 sm:flex">
           <a
-            href="https://dataease.cn/"
+            href="https://luomor.com/"
             target="_blank"
             rel="noopener"
             class="text-sm text-gray-600 transition-colors hover:text-primary-600"

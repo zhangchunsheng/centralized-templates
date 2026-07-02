@@ -15,8 +15,9 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 const ROOT = resolve(__dirname, '..')
-const API_URL = 'https://templates.dataease.cn/apis/api.store.halo.run/v1alpha1/applications?page=0&size=500'
-const BASE_URL = 'https://templates.dataease.cn'
+// 上游数据源仍使用 DataEase 模板市场，请勿随意修改，否则抓取会失败
+const UPSTREAM_API_URL = 'https://templates.dataease.cn/apis/api.store.halo.run/v1alpha1/applications?page=0&size=500'
+const UPSTREAM_BASE_URL = 'https://templates.dataease.cn'
 
 const PUBLIC_UPLOADS = join(ROOT, 'public', 'uploads')
 const PUBLIC_TEMPLATES = join(ROOT, 'public', 'templates')
@@ -80,7 +81,7 @@ function normalizeUrl(url) {
 }
 
 async function downloadFile(url, destPath, retry = 0) {
-  const fullUrl = url.startsWith('http') ? url : `${BASE_URL}${url}`
+  const fullUrl = url.startsWith('http') ? url : `${UPSTREAM_BASE_URL}${url}`
   try {
     const res = await fetch(fullUrl)
     if (!res.ok) {
@@ -117,7 +118,7 @@ async function runWithConcurrency(items, fn, limit) {
 
 async function main() {
   log('Fetching template metadata...')
-  const res = await fetch(API_URL)
+  const res = await fetch(UPSTREAM_API_URL)
   if (!res.ok) {
     throw new Error(`Failed to fetch API: ${res.status}`)
   }

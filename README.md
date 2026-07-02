@@ -1,6 +1,6 @@
 # 烙馍智擎中央模板库
 
-基于 [DataEase 模板市场](https://templates.dataease.cn/) 构建的烙馍智擎本地模板库网站，使用 Vue 3 + Vite 3 开发，支持搜索、筛选和一键下载模板文件。
+基于 [DataEase 模板市场](https://templates.luomor.com/) 构建的烙馍智擎本地模板库网站，使用 Vue 3 + Vite 3 开发，支持搜索、筛选和一键下载模板文件。
 
 ## 功能特性
 
@@ -67,7 +67,7 @@ npm run build
 
 ## 数据说明
 
-模板元数据、截图和文件来源于 https://templates.dataease.cn/，仅供学习、研究和内部使用。请勿用于商业分发。
+模板元数据、截图和文件来源于 https://templates.luomor.com/，仅供学习、研究和内部使用。请勿用于商业分发。
 
 执行 `npm run fetch:data` 时会：
 
