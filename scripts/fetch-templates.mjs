@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * 抓取 DataEase 模板市场数据
+ * 抓取烙馍智擎模板市场数据（上游源为 DataEase 模板市场）
  * 1. 从 Halo 应用商店 API 获取全部模板元数据
  * 2. 下载截图、Logo、模板文件到 public/uploads/ 与 public/templates/
  * 3. 生成本地化索引 src/data/templates.json
@@ -155,12 +155,14 @@ async function main() {
 
   // 收集所有需要下载的资源
   const brandAssets = [
-    { url: normalizeUrl('/upload/DataEase-模板市场.png'), type: 'uploads' },
-    { url: normalizeUrl('/upload/dataease.svg'), type: 'uploads' },
+    { url: normalizeUrl('/upload/DataEase-模板市场.png'), type: 'uploads', localName: '烙馍智擎-模板市场.png' },
+    { url: normalizeUrl('/upload/dataease.svg'), type: 'uploads', localName: 'luomor.svg' },
   ]
 
   for (const asset of brandAssets) {
-    const { localPath, publicPath } = allocateLocalPath(asset.url, asset.type)
+    const folder = asset.type === 'templates' ? PUBLIC_TEMPLATES : PUBLIC_UPLOADS
+    const localPath = join(folder, asset.localName)
+    const publicPath = `/${asset.type}/${asset.localName}`
     downloads.push({
       remoteUrl: asset.url,
       localPath,

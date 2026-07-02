@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 项目概述
 
-使用 Vue 3 + Vite 3 构建的 [DataEase 模板市场](https://templates.dataease.cn/) 本地克隆版。通过上游 Halo 应用商店 API 抓取全部免费模板（元数据、截图、模板文件），构建一个可搜索、可筛选、支持本地下载的静态站点。
+使用 Vue 3 + Vite 3 构建的烙馍智擎模板市场。数据来源于上游 [DataEase 模板市场](https://templates.dataease.cn/) 的 Halo 应用商店 API，抓取全部免费模板（元数据、截图、模板文件）后构建一个可搜索、可筛选、支持本地下载的静态站点。
 
 ## 常用命令
 

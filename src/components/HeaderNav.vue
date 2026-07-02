@@ -18,8 +18,8 @@ defineExpose({ focusSearch })
       <div class="flex h-full items-center gap-6">
         <RouterLink to="/" class="inline-flex h-full items-center">
           <img
-            src="/uploads/DataEase-模板市场.png"
-            alt="DataEase 模板市场"
+            src="/uploads/烙馍智擎-模板市场.png"
+            alt="烙馍智擎模板市场"
             class="h-10 w-auto"
           />
         </RouterLink>
@@ -33,7 +33,7 @@ defineExpose({ focusSearch })
             rel="noopener"
             class="text-sm text-gray-600 transition-colors hover:text-primary-600"
           >
-            DataEase 官网
+            官网
           </a>
           <a
             href="https://dataease.cn/docs/v2/user_manual/template_market/"
