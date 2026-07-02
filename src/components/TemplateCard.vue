@@ -23,6 +23,7 @@ const typeName = getTypeName(props.template.type)
           :alt="template.name"
           class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
           loading="lazy"
+          decoding="async"
         />
         <div v-else class="flex h-full w-full items-center justify-center text-gray-400">
           <svg class="h-10 w-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -5,4 +5,5 @@ claude
 将claude.md改为中文
 将dataease改为烙馍智擎
 将dataease.cn改为luomor.com
+图片改为异步加载
 ```

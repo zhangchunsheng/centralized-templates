@@ -21,6 +21,8 @@ defineExpose({ focusSearch })
             src="/uploads/烙馍智擎-模板市场.png"
             alt="烙馍智擎模板市场"
             class="h-10 w-auto"
+            loading="eager"
+            decoding="async"
           />
         </RouterLink>
       </div>
@@ -28,7 +30,7 @@ defineExpose({ focusSearch })
       <div class="flex items-center gap-4">
         <div class="hidden items-center gap-4 sm:flex">
           <a
-            href="https://luomor.com/"
+            href="https://www.luomor.com"
             target="_blank"
             rel="noopener"
             class="text-sm text-gray-600 transition-colors hover:text-primary-600"

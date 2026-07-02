@@ -46,6 +46,8 @@ function goBack() {
             :src="template.screenshots[0]"
             :alt="template.name"
             class="w-full object-cover"
+            loading="lazy"
+            decoding="async"
           />
           <div v-else class="flex aspect-[16/10] w-full items-center justify-center bg-gray-100 text-gray-400">
             <svg class="h-16 w-16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -65,7 +67,13 @@ function goBack() {
             :key="idx"
             class="overflow-hidden rounded-lg border border-gray-100"
           >
-            <img :src="shot" :alt="`${template.name} 截图 ${idx + 2}`" class="aspect-video w-full object-cover" />
+            <img
+              :src="shot"
+              :alt="`${template.name} 截图 ${idx + 2}`"
+              class="aspect-video w-full object-cover"
+              loading="lazy"
+              decoding="async"
+            />
           </div>
         </div>
       </div>
