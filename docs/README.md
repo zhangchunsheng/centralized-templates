@@ -4,4 +4,5 @@ claude
 /init
 将claude.md改为中文
 将dataease改为烙馍智擎
+将dataease.cn改为luomor.com
 ```

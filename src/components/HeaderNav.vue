@@ -35,14 +35,6 @@ defineExpose({ focusSearch })
           >
             官网
           </a>
-          <a
-            href="https://dataease.cn/docs/v2/user_manual/template_market/"
-            target="_blank"
-            rel="noopener"
-            class="text-sm text-gray-600 transition-colors hover:text-primary-600"
-          >
-            帮助文档
-          </a>
         </div>
 
         <div class="relative hidden sm:block">
