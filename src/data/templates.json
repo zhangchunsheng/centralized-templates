@@ -874,7 +874,7 @@
     },
     {
       "id": "app-hrmoA",
-      "name": "DataEase 资源分析大屏",
+      "name": "LuomorData 资源分析大屏",
       "type": "SCREEN",
       "classification": "STYLE",
       "label": "PLATFORM_DOCKING",
@@ -883,13 +883,13 @@
       "releaseName": "app-release-UxwCC",
       "logo": "",
       "screenshots": [
-        "/uploads/DataEase 日志分析大屏.jpg"
+        "/uploads/LuomorData 日志分析大屏.jpg"
       ],
       "downloads": [
         {
           "name": "应用模板下载",
-          "url": "/templates/DataEase 日志分析大屏-样式模版.DET2",
-          "originalUrl": "/upload/DataEase%20%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-%E6%A0%B7%E5%BC%8F%E6%A8%A1%E7%89%88.DET2"
+          "url": "/templates/LuomorData 日志分析大屏-样式模版.DET2",
+          "originalUrl": "/upload/LuomorData%20%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-%E6%A0%B7%E5%BC%8F%E6%A8%A1%E7%89%88.DET2"
         }
       ],
       "original": {
@@ -903,7 +903,7 @@
     },
     {
       "id": "app-eklwY",
-      "name": "DataEase 资源分析大屏",
+      "name": "LuomorData 资源分析大屏",
       "type": "SCREEN",
       "classification": "DATA",
       "label": "PLATFORM_DOCKING",
@@ -912,13 +912,13 @@
       "releaseName": "app-release-jFCJV",
       "logo": "",
       "screenshots": [
-        "/uploads/DataEase 日志分析大屏_1.jpg"
+        "/uploads/LuomorData 日志分析大屏_1.jpg"
       ],
       "downloads": [
         {
           "name": "应用模板下载",
-          "url": "/templates/DataEase 日志分析大屏-应用模版.DET2APP",
-          "originalUrl": "/upload/DataEase%20%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-%E5%BA%94%E7%94%A8%E6%A8%A1%E7%89%88.DET2APP"
+          "url": "/templates/LuomorData 日志分析大屏-应用模版.DET2APP",
+          "originalUrl": "/upload/LuomorData%20%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-%E5%BA%94%E7%94%A8%E6%A8%A1%E7%89%88.DET2APP"
         }
       ],
       "original": {
@@ -1367,7 +1367,7 @@
     },
     {
       "id": "app-fCJHm",
-      "name": "DataEase 系统数据大屏（应用模板）",
+      "name": "LuomorData 系统数据大屏（应用模板）",
       "type": "SCREEN",
       "classification": "DATA",
       "label": "PLATFORM_DOCKING",
@@ -1376,13 +1376,13 @@
       "releaseName": "app-release-aExEi",
       "logo": "",
       "screenshots": [
-        "/uploads/DataEase 系统数据大屏.png"
+        "/uploads/LuomorData 系统数据大屏.png"
       ],
       "downloads": [
         {
           "name": "应用模板下载",
-          "url": "/templates/DataEase 系统数据大屏-APP.DET2APP",
-          "originalUrl": "/upload/DataEase%20%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B1%8F-APP.DET2APP"
+          "url": "/templates/LuomorData 系统数据大屏-APP.DET2APP",
+          "originalUrl": "/upload/LuomorData%20%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B1%8F-APP.DET2APP"
         }
       ],
       "original": {
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "app-JYanO",
-      "name": "DataEase 系统数据大屏（样式模板）",
+      "name": "LuomorData 系统数据大屏（样式模板）",
       "type": "SCREEN",
       "classification": "STYLE",
       "label": "PLATFORM_DOCKING",
@@ -1405,13 +1405,13 @@
       "releaseName": "app-release-KSLMp",
       "logo": "",
       "screenshots": [
-        "/uploads/DataEase 系统数据大屏_1.png"
+        "/uploads/LuomorData 系统数据大屏_1.png"
       ],
       "downloads": [
         {
           "name": "样式模板下载",
-          "url": "/templates/DataEase 系统数据大屏-TEMPLATE.DET2",
-          "originalUrl": "/upload/DataEase%20%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B1%8F-TEMPLATE.DET2"
+          "url": "/templates/LuomorData 系统数据大屏-TEMPLATE.DET2",
+          "originalUrl": "/upload/LuomorData%20%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B1%8F-TEMPLATE.DET2"
         }
       ],
       "original": {
@@ -1657,7 +1657,7 @@
     },
     {
       "id": "app-HowYy",
-      "name": " DataEase 基础数据分析大屏（应用模板）",
+      "name": " LuomorData 基础数据分析大屏（应用模板）",
       "type": "SCREEN",
       "classification": "DATA",
       "label": "PLATFORM_DOCKING",
@@ -1666,13 +1666,13 @@
       "releaseName": "app-release-IcVEy",
       "logo": "",
       "screenshots": [
-        "/uploads/DataEase 基础数据分析大屏.png"
+        "/uploads/LuomorData 基础数据分析大屏.png"
       ],
       "downloads": [
         {
           "name": "应用模板下载",
-          "url": "/templates/DataEase 基础数据分析大屏-APP.DET2APP",
-          "originalUrl": "/upload/DataEase%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-APP.DET2APP"
+          "url": "/templates/LuomorData 基础数据分析大屏-APP.DET2APP",
+          "originalUrl": "/upload/LuomorData%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-APP.DET2APP"
         }
       ],
       "original": {
@@ -2730,7 +2730,7 @@
     },
     {
       "id": "app-QtcOG",
-      "name": "DataEase 基础数据分析大屏（样式模板）",
+      "name": "LuomorData 基础数据分析大屏（样式模板）",
       "type": "SCREEN",
       "classification": "STYLE",
       "label": "PLATFORM_DOCKING",
@@ -2739,13 +2739,13 @@
       "releaseName": "app-release-IAbPg",
       "logo": "",
       "screenshots": [
-        "/uploads/DataEase 基础数据分析大屏_1.png"
+        "/uploads/LuomorData 基础数据分析大屏_1.png"
       ],
       "downloads": [
         {
           "name": "模板下载",
-          "url": "/templates/DataEase 基础数据分析大屏-TEMPLATE-aorh.DET2",
-          "originalUrl": "/upload/DataEase%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-TEMPLATE-aorh.DET2"
+          "url": "/templates/LuomorData 基础数据分析大屏-TEMPLATE-aorh.DET2",
+          "originalUrl": "/upload/LuomorData%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F-TEMPLATE-aorh.DET2"
         }
       ],
       "original": {
@@ -4914,13 +4914,13 @@
       "releaseName": "app-release-PHatT",
       "logo": "",
       "screenshots": [
-        "/uploads/03 - 开源项目 DataEase 活跃度概览.png"
+        "/uploads/03 - 开源项目 LuomorData 活跃度概览.png"
       ],
       "downloads": [
         {
           "name": "模板下载",
-          "url": "/templates/DataEase github 相关数据分析-TEMPLATE.DET",
-          "originalUrl": "/upload/2023/01/DataEase%20github%20%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-TEMPLATE.DET"
+          "url": "/templates/LuomorData github 相关数据分析-TEMPLATE.DET",
+          "originalUrl": "/upload/2023/01/LuomorData%20github%20%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-TEMPLATE.DET"
         }
       ],
       "original": {
@@ -4934,7 +4934,7 @@
     },
     {
       "id": "app-EhRoc",
-      "name": "DataEase 用户操作日志分析大屏",
+      "name": "LuomorData 用户操作日志分析大屏",
       "type": "PANEL",
       "classification": "STYLE",
       "label": "PLATFORM_DOCKING",
@@ -4943,13 +4943,13 @@
       "releaseName": "app-release-yviAb",
       "logo": "",
       "screenshots": [
-        "/uploads/08 - DataEase 日志分析大屏.png"
+        "/uploads/08 - LuomorData 日志分析大屏.png"
       ],
       "downloads": [
         {
           "name": "模板下载",
-          "url": "/templates/DataEase 用户操作日志分析-TEMPLATE.DET",
-          "originalUrl": "/upload/2022/11/DataEase%20%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90-TEMPLATE.DET"
+          "url": "/templates/LuomorData 用户操作日志分析-TEMPLATE.DET",
+          "originalUrl": "/upload/2022/11/LuomorData%20%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90-TEMPLATE.DET"
         }
       ],
       "original": {
@@ -5117,13 +5117,13 @@
       "releaseName": "app-release-YaJnL",
       "logo": "",
       "screenshots": [
-        "/uploads/01 - DataEase 仪表板数据分析展示.png"
+        "/uploads/01 - LuomorData 仪表板数据分析展示.png"
       ],
       "downloads": [
         {
           "name": "模板下载",
-          "url": "/templates/DataEase 数据概览-TEMPLATE.DET",
-          "originalUrl": "/upload/2022/09/DataEase%20%E6%95%B0%E6%8D%AE%E6%A6%82%E8%A7%88-TEMPLATE.DET"
+          "url": "/templates/LuomorData 数据概览-TEMPLATE.DET",
+          "originalUrl": "/upload/2022/09/LuomorData%20%E6%95%B0%E6%8D%AE%E6%A6%82%E8%A7%88-TEMPLATE.DET"
         }
       ],
       "original": {
@@ -7138,7 +7138,7 @@
     },
     {
       "id": "app-AMDhb",
-      "name": "DataEase 洞察大屏",
+      "name": "LuomorData 洞察大屏",
       "type": "PANEL",
       "classification": "STYLE",
       "label": "OPEN_SOURCE_INSIGHTS",
@@ -7147,13 +7147,13 @@
       "releaseName": "app-release-RvMSE",
       "logo": "",
       "screenshots": [
-        "/uploads/DataEase洞察大屏.png"
+        "/uploads/LuomorData洞察大屏.png"
       ],
       "downloads": [
         {
           "name": "模板下载",
-          "url": "/templates/DataEase洞察大屏-TEMPLATE.DET",
-          "originalUrl": "/upload/2023/05/DataEase%E6%B4%9E%E5%AF%9F%E5%A4%A7%E5%B1%8F-TEMPLATE.DET"
+          "url": "/templates/LuomorData洞察大屏-TEMPLATE.DET",
+          "originalUrl": "/upload/2023/05/LuomorData%E6%B4%9E%E5%AF%9F%E5%A4%A7%E5%B1%8F-TEMPLATE.DET"
         }
       ],
       "original": {
@@ -8162,13 +8162,13 @@
       "releaseName": "app-release-urWyw",
       "logo": "",
       "screenshots": [
-        "/uploads/01 - DataEase 仪表板数据分析展示_1.png"
+        "/uploads/01 - LuomorData 仪表板数据分析展示_1.png"
       ],
       "downloads": [
         {
           "name": "应用下载",
-          "url": "/templates/DataEase 数据分析.zip",
-          "originalUrl": "/upload/2022/11/DataEase%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.zip"
+          "url": "/templates/LuomorData 数据分析.zip",
+          "originalUrl": "/upload/2022/11/LuomorData%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.zip"
         }
       ],
       "original": {
@@ -8269,7 +8269,7 @@
     },
     {
       "id": "app-iXxRf",
-      "name": "DataEase 用户操作日志分析大屏",
+      "name": "LuomorData 用户操作日志分析大屏",
       "type": "PANEL",
       "classification": "DATA",
       "label": "PLATFORM_DOCKING",
@@ -8278,13 +8278,13 @@
       "releaseName": "app-release-UhhOl",
       "logo": "",
       "screenshots": [
-        "/uploads/08 - DataEase 日志分析大屏_1.png"
+        "/uploads/08 - LuomorData 日志分析大屏_1.png"
       ],
       "downloads": [
         {
           "name": "应用下载",
-          "url": "/templates/DataEase 用户操作日志分析大屏.zip",
-          "originalUrl": "/upload/2023/02/DataEase%20%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F.zip"
+          "url": "/templates/LuomorData 用户操作日志分析大屏.zip",
+          "originalUrl": "/upload/2023/02/LuomorData%20%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%A4%A7%E5%B1%8F.zip"
         }
       ],
       "original": {
