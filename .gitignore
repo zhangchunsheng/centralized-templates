@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 # Large downloaded assets (can be regenerated with npm run fetch:data)
-public/uploads/*
-public/templates/*
+#public/uploads/*
+#public/templates/*
 !public/uploads/.gitkeep
 !public/templates/.gitkeep
