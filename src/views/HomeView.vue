@@ -3,6 +3,7 @@ import { useTemplateStore } from '@/stores/templates.js'
 import SearchBox from '@/components/SearchBox.vue'
 import FilterBar from '@/components/FilterBar.vue'
 import TemplateGrid from '@/components/TemplateGrid.vue'
+import Pagination from '@/components/Pagination.vue'
 
 const store = useTemplateStore()
 </script>
@@ -34,6 +35,8 @@ const store = useTemplateStore()
       <FilterBar class="mb-6" />
 
       <TemplateGrid />
+
+      <Pagination class="mt-6" />
     </section>
   </div>
 </template>
